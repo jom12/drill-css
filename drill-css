@@ -1,0 +1,15 @@
+<html>
+  <head>
+  <title></title>
+  </head>
+  <body>
+<main>
+  <div class="box">
+    <p>Make me blue and 60px x 60px</p>
+  </div>
+  <div class="second">
+    <p>Make me red and 200px by 250px, with a 1px black, solid border</p>
+  </div>
+</main>
+    </body>
+</html>
