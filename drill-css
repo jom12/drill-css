@@ -82,6 +82,7 @@
       text-shadow: 0 1px 1px black;}
     .lato {
     /*   height: px; */ 
+    background-image: 
     
     background: linear-gradient(to bottom,
               rgba(0, 0, 0, 0),
@@ -91,14 +92,15 @@
 </head>
 <body>
   <main>
-    <div class="box"></div>
-    <div class="second"></div>
+    
     <hr>
     <h1>Get ready cause</h1>
     <h2 class="picu">This ain't funny</h2>
     <p>my name's Mike-D</p>
     <p>and i'm definitely not going to get any money with this horrible font. Can I get assistance?</p>
     <hr>
+    <div class="box"></div>
+    <div class="second"></div>
     <div class="kitten"></div>
     <div class="kittens"></div>
     <div class='main'>
