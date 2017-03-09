@@ -17,8 +17,6 @@
     border:1px solid black;
     height:250px;
     }
-    h1 {
-    font-family:montserrat; 
     }
     .picu {
       font-family:montserrat; 
@@ -34,6 +32,7 @@
     width:50px;
     margin-left:0;
   }
+  
   .kitten {
     width: 400px;
     height: 400px;
@@ -90,9 +89,9 @@
                 )}
   </style>
 </head>
+
 <body>
   <main>
-    
     <hr>
     <h1>Get ready cause</h1>
     <h2 class="picu">This ain't funny</h2>
@@ -111,5 +110,4 @@
     </div>
   </main>
 </body>
-
 </html>
