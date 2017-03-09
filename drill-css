@@ -32,7 +32,6 @@
     width:50px;
     margin-left:0;
   }
-  
   .kitten {
     width: 400px;
     height: 400px;
@@ -53,8 +52,7 @@
     color: white;
     font-family: url('https://fonts.googleapis.com/css?family=Lato');
     font size:60px;
-  
-    }*/
+  }*/
   .main {
     padding: 60px;
     height: 300px;
@@ -89,7 +87,6 @@
                 )}
   </style>
 </head>
-
 <body>
   <main>
     <hr>
